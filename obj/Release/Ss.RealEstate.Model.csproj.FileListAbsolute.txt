@@ -1,0 +1,15 @@
+C:\Anand\_Projects\Ss\Ss.RealEstate.Model\bin\Release\Ss.RealEstate.Model.dll
+C:\Anand\_Projects\Ss\Ss.RealEstate.Model\bin\Release\Ss.RealEstate.Model.pdb
+C:\Anand\_Projects\Ss\Ss.RealEstate.Model\obj\Release\Ss.RealEstate.Model.csprojResolveAssemblyReference.cache
+C:\Anand\_Projects\Ss\Ss.RealEstate.Model\obj\Release\Ss.RealEstate.Model.dll
+C:\Anand\_Projects\Ss\Ss.RealEstate.Model\obj\Release\Ss.RealEstate.Model.pdb
+C:\Anand\_Projects\Ss\RealEstate\Ss.RealEstate.Model\bin\Release\Ss.RealEstate.Model.dll
+C:\Anand\_Projects\Ss\RealEstate\Ss.RealEstate.Model\bin\Release\Ss.RealEstate.Model.pdb
+C:\Anand\_Projects\Ss\RealEstate\Ss.RealEstate.Model\obj\Release\Ss.RealEstate.Model.csprojResolveAssemblyReference.cache
+C:\Anand\_Projects\Ss\RealEstate\Ss.RealEstate.Model\obj\Release\Ss.RealEstate.Model.dll
+C:\Anand\_Projects\Ss\RealEstate\Ss.RealEstate.Model\obj\Release\Ss.RealEstate.Model.pdb
+C:\Anand\_Projects\Ss.RealEstate\Ss.RealEstate.Model\bin\Release\Ss.RealEstate.Model.dll
+C:\Anand\_Projects\Ss.RealEstate\Ss.RealEstate.Model\bin\Release\Ss.RealEstate.Model.pdb
+C:\Anand\_Projects\Ss.RealEstate\Ss.RealEstate.Model\obj\Release\Ss.RealEstate.Model.csprojResolveAssemblyReference.cache
+C:\Anand\_Projects\Ss.RealEstate\Ss.RealEstate.Model\obj\Release\Ss.RealEstate.Model.dll
+C:\Anand\_Projects\Ss.RealEstate\Ss.RealEstate.Model\obj\Release\Ss.RealEstate.Model.pdb
